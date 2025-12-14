@@ -14,7 +14,7 @@ def add_game():
         "name": name,
         "platform": platform,
         "max_players": max_players,
-        "completed": completed.lower() == "да"
+        "completed": completed.lower() == "yes"
     }
     
     games.append(game)

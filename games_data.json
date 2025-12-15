@@ -1,0 +1,20 @@
+[
+  {
+    "name": "it takes two",
+    "platform": "PC, PS4",
+    "max_players": "2",
+    "completed": true
+  },
+  {
+    "name": "Clash Royal",
+    "platform": "Phone",
+    "max_players": "2",
+    "completed": false
+  },
+  {
+    "name": "fortnite",
+    "platform": "PC",
+    "max_players": "100",
+    "completed": false
+  }
+]
